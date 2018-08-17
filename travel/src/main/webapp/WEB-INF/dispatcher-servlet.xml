@@ -13,6 +13,9 @@
 
 	<context:component-scan
 		base-package="ariehashimie.travel.controller" />
+	<context:component-scan
+		base-package="ariehashimie.travellingback.daoimpl" />
+
 
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -21,9 +24,9 @@
 		<property name="suffix" value=".jsp" />
 
 	</bean>
-	
+
 	<!-- Loading static resource -->
-	<mvc:annotation-driven/>
-	<mvc:resources location="/asset/" mapping="/resources/**"/>
+	<mvc:annotation-driven />
+	<mvc:resources location="/asset/" mapping="/resources/**" />
 
 </beans>

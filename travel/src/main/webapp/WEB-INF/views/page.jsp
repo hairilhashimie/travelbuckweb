@@ -23,6 +23,10 @@
 
 <title>TravelBuck - ${title}</title>
 
+<script>
+	window.menu = '${title}';
+</script>
+
 <!-- Bootstrap core CSS -->
 <link href="${css}/bootstrap.min.css" rel="stylesheet">
 
@@ -42,9 +46,9 @@
 
 
 		<!-- Page Content -->
-		
+
 		<div class="context">
-		
+
 			<c:if test="${userClickHome ==  true }">
 				<%@include file="home.jsp"%>
 			</c:if>
@@ -59,6 +63,12 @@
 				<%@include file="contact.jsp"%>
 			</c:if>
 
+			<!-- Loading up  -->
+			<c:if
+				test="${userClickAllServices ==  true or userClickCategoryServices == true}">
+				<%@include file="listServices.jsp"%>
+			</c:if>
+
 		</div>
 
 		<!-- Footer -->
@@ -70,6 +80,9 @@
 		<script src="${js}/jquery.js"></script>
 		<script src="${js}/bootstrap.min.js"></script>
 
+		<!-- Selcoding javascript -->
+		<script src="${js}/myapp.js">
+		</script>
 	</div>
 </body>
 

@@ -4,13 +4,7 @@
 
 		<div class="col-lg-3">
 
-			<h1 class="my-4">SERVICES</h1>
-			<div class="list-group">
-				<a href="#" class="list-group-item">Hotel</a> <a href="#"
-					class="list-group-item">Activities</a> <a href="#"
-					class="list-group-item">Accommodation</a>
-			</div>
-
+			<%@ include file="./shared/sidebar.jsp" %>
 		</div>
 		<!-- /.col-lg-3 -->
 
