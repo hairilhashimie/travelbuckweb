@@ -20,15 +20,15 @@
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="carousel-item active">
-						<img class="d-block img-fluid" src="http://placehold.it/900x350"
+						<img class="d-block img-fluid" src="https://www.serimalaysiaportdickson.com/Content/Images/SwimmingPool.jpg"
 							alt="First slide">
 					</div>
 					<div class="carousel-item">
-						<img class="d-block img-fluid" src="http://placehold.it/900x350"
+						<img class="d-block img-fluid" src="http://portdickson.info/img/corus-paradise-resort.jpg"
 							alt="Second slide">
 					</div>
 					<div class="carousel-item">
-						<img class="d-block img-fluid" src="http://placehold.it/900x350"
+						<img class="d-block img-fluid" src="https://media1.wedding.com.my/uploads/images/2013/Dec/06/item-7192-1386293260-jt30170120.jpg"
 							alt="Third slide">
 					</div>
 				</div>
@@ -51,9 +51,9 @@
 							src="http://placehold.it/700x400" alt=""></a>
 						<div class="card-body">
 							<h4 class="card-title">
-								<a href="#">Item One</a>
+								<a href="#">Chorus Hotel</a>
 							</h4>
-							<h5>$24.99</h5>
+							<h5>$60.00</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur!</p>
 						</div>
@@ -70,9 +70,9 @@
 							src="http://placehold.it/700x400" alt=""></a>
 						<div class="card-body">
 							<h4 class="card-title">
-								<a href="#">Item Two</a>
+								<a href="#">Eagle Ranch Resort</a>
 							</h4>
-							<h5>$24.99</h5>
+							<h5>$70.00</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit
 								amet.</p>
@@ -90,9 +90,9 @@
 							src="http://placehold.it/700x400" alt=""></a>
 						<div class="card-body">
 							<h4 class="card-title">
-								<a href="#">Item Three</a>
+								<a href="#">Hotel Seri Malaysia</a>
 							</h4>
-							<h5>$24.99</h5>
+							<h5>$120.00</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur!</p>
 						</div>
@@ -109,9 +109,9 @@
 							src="http://placehold.it/700x400" alt=""></a>
 						<div class="card-body">
 							<h4 class="card-title">
-								<a href="#">Item Four</a>
+								<a href="#">Avillion Hotel</a>
 							</h4>
-							<h5>$24.99</h5>
+							<h5>$300.00</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur!</p>
 						</div>
@@ -128,9 +128,9 @@
 							src="http://placehold.it/700x400" alt=""></a>
 						<div class="card-body">
 							<h4 class="card-title">
-								<a href="#">Item Five</a>
+								<a href="#">Glory Beach Resort</a>
 							</h4>
-							<h5>$24.99</h5>
+							<h5>$150.00</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit
 								amet.</p>
@@ -148,9 +148,9 @@
 							src="http://placehold.it/700x400" alt=""></a>
 						<div class="card-body">
 							<h4 class="card-title">
-								<a href="#">Item Six</a>
+								<a href="#">Merlin Hotel</a>
 							</h4>
-							<h5>$24.99</h5>
+							<h5>$60.00</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur!</p>
 						</div>
